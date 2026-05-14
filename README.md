@@ -97,7 +97,7 @@ Built a rule-based AI insight module to automatically generate business conclusi
 ## 运行方式 | How to Run
 ```bash
 # 克隆仓库 Clone repository
-git clone https://github.com/你的用户名/你的仓库名.git
+git clone https://github.com/ajiaoxuwolz-lab/E-commerce-User-Behavior-Analysis-RFM8-Stratification-AI-Insights-Visualization.git
 
 # 安装依赖 Install dependencies
 pip install -r requirements.txt
